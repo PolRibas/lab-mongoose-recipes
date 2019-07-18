@@ -49,5 +49,14 @@ module.exports =
         image: 'https://images.media-allrecipes.com/userphotos/720x405/815964.jpg',
         duration: 30,
         creator: 'Chef Jennifer'
-      }
+      },
+      {
+        title: 'brocoli con patatas',
+        level: 'UltraPro Chef',
+        ingredients: ['brocoli','patatas', 'ajo', 'aceite', 'sal'],
+        cuisine: 'Veggie',
+        dishType: 'Dish',
+        duration: 30,
+        creator: 'Anna'
+    }
     ];
